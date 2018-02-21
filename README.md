@@ -1,0 +1,2 @@
+# SigrokFileManager
+Sigrok file manager
