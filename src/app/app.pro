@@ -1,5 +1,6 @@
 include(../../SigrokFileManager.pri)
 include(../3rdparty/quazip/quazip/quazip.pri)
+include(../SigrokUtil/SigrokUtil.pri)
 
 QT       += core gui
 
